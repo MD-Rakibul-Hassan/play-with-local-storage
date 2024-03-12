@@ -1,0 +1,64 @@
+{
+  "bottles": [
+    {
+      "id": "bottle1",
+      "name": "Blue Glass Bottle",
+      "description": "A beautiful blue glass bottle with a cork stopper.",
+      "image_id": "https://pngtree.com/freepng/water-bottle_8462512.html"
+    },
+    {
+      "id": "bottle2",
+      "name": "Vintage Wine Bottle",
+      "description": "An antique wine bottle with intricate engravings.",
+      "image_id": "vintage_wine_bottle.png"
+    },
+    {
+      "id": "bottle3",
+      "name": "Clear Plastic Bottle",
+      "description": "A transparent plastic bottle with a screw cap.",
+      "image_id": "clear_plastic_bottle.png"
+    },
+    {
+      "id": "bottle4",
+      "name": "Metallic Water Bottle",
+      "description": "A sleek metallic water bottle with a flip straw.",
+      "image_id": "metallic_water_bottle.png"
+    },
+    {
+      "id": "bottle5",
+      "name": "Green Glass Bottle",
+      "description": "An eco-friendly green glass bottle with a swing top.",
+      "image_id": "green_glass_bottle.png"
+    },
+    {
+      "id": "bottle6",
+      "name": "Red Wine Bottle",
+      "description": "A classic red wine bottle with a traditional cork.",
+      "image_id": "red_wine_bottle.png"
+    },
+    {
+      "id": "bottle7",
+      "name": "Stainless Steel Bottle",
+      "description": "A durable stainless steel bottle with a screw-on lid.",
+      "image_id": "stainless_steel_bottle.png"
+    },
+    {
+      "id": "bottle8",
+      "name": "Amber Glass Bottle",
+      "description": "An amber glass bottle with a dropper for essential oils.",
+      "image_id": "amber_glass_bottle.png"
+    },
+    {
+      "id": "bottle9",
+      "name": "Sports Water Bottle",
+      "description": "A lightweight sports bottle with a squeeze nozzle.",
+      "image_id": "sports_water_bottle.png"
+    },
+    {
+      "id": "bottle10",
+      "name": "Ceramic Milk Bottle",
+      "description": "A traditional ceramic milk bottle with a handle.",
+      "image_id": "ceramic_milk_bottle.png"
+    }
+  ]
+}
